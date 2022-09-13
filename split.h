@@ -1,5 +1,6 @@
 #ifndef SPLIT_H
 #define SPLIT_H
+#include <cstddef>
 
 
 struct Node 
